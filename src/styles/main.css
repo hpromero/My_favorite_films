@@ -1,0 +1,62 @@
+body{
+    background-color: #fff8e1;
+}
+.full-y {
+    height: 80vh;
+}
+
+.wrong-msg {
+    color: red;
+    display: none;
+    margin-left: 45px;
+}
+
+.wrong-title{
+    color: red;
+    display: none;
+}
+
+.no-margin-y {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.no-pading-y {
+    padding-top: 0px;
+    padding-bottom: 0px;
+} 
+
+.item{
+    padding: 0px;
+    border-radius: 5px;
+}
+
+#login{
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.film-form{
+    padding: 16px;
+    margin-top: 50px;
+}
+
+.synopsisDetail{
+    min-height: 100px;
+    padding-bottom: 20px;
+}
+
+#list_container{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#icon-btn {
+    margin: 0px;
+    padding: 0px;
+}
+
+.exit{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
